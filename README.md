@@ -1,4 +1,4 @@
-# Inception-ResNet-V2 Implementation
+# Inception-ResNet-V2 Model Description:
 
 Paper : Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning .
 
