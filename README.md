@@ -1,5 +1,7 @@
 # Inception-ResNet-V2 Model Description:
 
+![](https://raw.githubusercontent.com/Masterx-AI/Inception-ResNet-V2_Implementation/main/IRV2.png)
+
 Paper : Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning .
 
 Authors : Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke, Alex Alemi. Google Inc.
